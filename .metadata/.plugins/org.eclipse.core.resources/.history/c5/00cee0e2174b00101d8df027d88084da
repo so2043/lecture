@@ -1,0 +1,19 @@
+package _21_oop11_2;
+
+import _20_oop11.Speaker;
+
+public interface TV {
+	
+	public abstract void powerOn();
+	
+	public void powerOff();
+	
+	public void soundUp();
+	
+	public void soundDown();
+	
+	public void channelUp();
+	
+	public void channelDown();
+
+}

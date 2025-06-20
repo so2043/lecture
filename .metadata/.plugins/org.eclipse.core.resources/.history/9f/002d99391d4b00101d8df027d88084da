@@ -1,0 +1,18 @@
+package _21_oop11_2;
+
+
+// simple factory pattern
+public class TVFactory {
+	
+	public static TV getTV() {
+		try {
+			String tvClassName = ProductReader.getValue("tv");
+			return Class.forName(tvClassName).getDeclaredConstructor().newInstance();
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		return null;
+		
+	}
+	
+}

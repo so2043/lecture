@@ -1,0 +1,28 @@
+package 연습문제._14장._5번;
+
+
+
+class A {
+	void abc() {
+		try {
+			bcd();
+		} catch (InterruptedException | ClassNotFoundException e) {
+			
+		}
+	}
+
+	private void bcd() {
+		// TODO Auto-generated method stub
+		
+	}
+}
+
+
+
+
+public class Unit14_5 {
+	public static void main(String[] args) {
+		
+		
+	}
+}

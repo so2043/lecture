@@ -1,0 +1,21 @@
+package _22_exception.sec03_throwsexception.EX01_ThrowsException_1;
+
+
+// 1. 하위 메서드에 직접 예외를 처리할 때
+class A {
+	void abc() {
+		bcd();
+	}
+	
+	void bcd() {
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e)
+	}
+}
+
+
+
+public class ThrowsException_1 {
+
+}

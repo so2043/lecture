@@ -1,0 +1,21 @@
+package _21_oop11_2;
+
+import java.io.FileInputStream;
+import java.util.Properties;
+
+public class TVUser {
+	public static void main(String[] args) throws Exception {
+		
+	
+		
+		
+		tv.powerOn();
+		tv.channelUp();
+		tv.channelUp();
+		tv.soundDown();
+		tv.powerOff();
+		
+		
+		
+	}
+}

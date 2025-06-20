@@ -1,0 +1,22 @@
+package 연습문제._14장._7번;
+
+
+
+class ScoreException extends Exception {
+	public ScoreException() {
+		
+	}
+	ScoreException(String s) {
+		super(s);
+	}
+}
+
+
+
+public class Unit14_7 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

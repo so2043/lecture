@@ -1,0 +1,18 @@
+package _21_oop11_2;
+
+public interface TV {
+	void default setSpeaker(Speaker speaker) {}
+	
+	void powerOn();
+	
+	void powerOff();
+	
+	void soundUp();
+	
+	void soundDown();
+	
+	void channelUp();
+	
+	void channelDown();
+
+}

@@ -1,0 +1,75 @@
+package _22_exception;
+
+import java.util.Random;
+import java.util.Scanner;
+
+public class ExceptionTest5 {
+	public static void main(String[] args) {
+		
+//		int n = (int)(Math.random() * 99) + 1;
+		Random random = new Random();
+		int n = random.nextInt(99) + 1;
+		int you = 0;
+		int cnt = 0;
+		
+		try (Scanner sc = new Scanner(System.in)){
+			
+			while(true) {
+				
+				cnt++;
+				
+				System.out.print("1 ~ 99 사이 정수를 입력하세요 >> ");
+				if (!sc.hasNext()) {
+					System.out.println("값이 잘못 입력 되었습니다.");
+					sc.nextLine();
+					continue;
+				}
+				you = sc.nextInt();
+				sc.nextLine();
+//				if (!(1 <= you && you <= 99 )) {
+//					System.out.println("값의 범위가 틀렸습니다. 1 ~ 99 사이 정수를 입력하세요");
+//				} else if (you != n){
+//					System.out.println("입력 값은" + you + "입니다");
+//				} else {
+//					System.out.println("맞았습니다. 컴퓨터가 생각하던 값은 " + n + "입니다");
+//					break;
+//				}
+				
+				if (!(1 <= you && you <= 99 )) {
+					
+					System.out.println("값의 범위가 틀렸습니다. 1 ~ 99 사이 정수를 입력하세요");
+					
+				} else if (you != n) {
+					
+					System.out.println("너의 입력 값은 " + you + " 입니다");
+					if ( you < n ) System.out.println("UP 하세여");
+					else System.out.println("DOWN 하세여");
+					
+				} else {
+					
+					int res = 0;
+					if (cnt < 17) res = (int) Math.ceil(cnt/4);
+					
+					switch (res) {
+					case 0 :
+					case 1 :
+						System.out.println(cnt);
+						System.out.println("Great~!");
+						break;
+					case 2 :
+						System.out.println("Good~!");
+						break;
+					case 3 : 
+						System.out.println("그럭저럭이군...");
+						break;
+					case 4 :
+						System.out.println("아숩네...");
+						break;
+					default :
+						System.out.println("분발을 요구함");	
+					}
+				}
+			}
+		}
+	}
+}

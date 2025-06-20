@@ -1,0 +1,21 @@
+package 연습문제._07장;
+
+
+class A {
+	
+	
+	print() {
+		System.out.println("입력값이 없습니다.");
+	}
+}
+
+
+public class unit07_02번 {
+	public static void main(String[] args) {
+		
+		A a = new A();
+		a.print();
+		
+		
+	}
+}

@@ -1,0 +1,5 @@
+package _25_thread.sec05_threadstates.EX05_BlockedState;
+
+public class BlockedState {
+
+}

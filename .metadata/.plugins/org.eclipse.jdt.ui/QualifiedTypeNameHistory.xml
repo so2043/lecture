@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.math.BigInteger"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="_11_.sec01_packageimport.common.A"/>
+    <fullyQualifiedTypeName name="org.apache.commons.codec.digest.DigestUtils"/>
+    <fullyQualifiedTypeName name="_11_importTest.Mydice"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="연습문제._08장.pack01.A"/>
+    <fullyQualifiedTypeName name="_20_oop11.marshallSpeaker"/>
+    <fullyQualifiedTypeName name="_09_oop3.Point"/>
+    <fullyQualifiedTypeName name="_20_oop11.HarmanSpeaker"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="_22_exception.sec04_userexception.EX04_UserExceptionExample.OverException"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.text.Collator"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="_23_innerclass.sec01_instanceinnerclass.EX01_CreateObjectAndAccessMember.A.B"/>
+    <fullyQualifiedTypeName name="_23_innerclass.sec01_instanceinnerclass.EX02_UseMemberOfOuterClass.A.B"/>
+    <fullyQualifiedTypeName name="_23_innerclass.sec02_staticinnerclass.EX01_CreateObjectAndAccessMember.A.B"/>
+    <fullyQualifiedTypeName name="_23_innerclass.sec05_innerinterface.EX01_CreateObjectOfInnerInteface.A.B"/>
+    <fullyQualifiedTypeName name="연습문제._13장._2번.A.B"/>
+    <fullyQualifiedTypeName name="연습문제._13장._3번.A.B"/>
+    <fullyQualifiedTypeName name="연습문제._13장._4번.A.B"/>
+    <fullyQualifiedTypeName name="_25_thread.sec02_createandstartthreadEX03_CreateAndSartThread_M2C1.SMIFileRunnable"/>
+    <fullyQualifiedTypeName name="_25_thread.sec02_createandstartthreadEX04_CreateAndSartThread_M2C2.SMIFileRunnable"/>
+    <fullyQualifiedTypeName name="_25_thread.sec02_createandstartthreadEX04_CreateAndSartThread_M2C2.VideoFileRunnable"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="_25_thread.sec05_threadstates.EX06_Waiting_WaitNotify_1.DataBox"/>
+    <fullyQualifiedTypeName name="_26_generic.sec01_theneedforgeneric.EX01_ProblemsBeforeGeneric.Apple"/>
+    <fullyQualifiedTypeName name="_26_generic.sec02_genericclass.EX01_SingleGenericArgument.MyClass"/>
+    <fullyQualifiedTypeName name="_26_generic.sec02_genericclass.EX02_TwoGenericArgument.KeyValue"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,18 @@
+package _21_oop11_2;
+
+public class TVUser {
+	public static void main(String[] args) throws Exception {
+		
+	
+		
+		
+		tv.powerOn();
+		tv.channelUp();
+		tv.channelUp();
+		tv.soundDown();
+		tv.powerOff();
+		
+		
+		
+	}
+}

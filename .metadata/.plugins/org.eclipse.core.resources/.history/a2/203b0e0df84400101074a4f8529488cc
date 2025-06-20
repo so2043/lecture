@@ -1,0 +1,11 @@
+package control;
+
+import java.util.Scanner;
+
+public class IfTest2 {
+	public static void main(String[] args) {
+		
+		
+
+	}
+}

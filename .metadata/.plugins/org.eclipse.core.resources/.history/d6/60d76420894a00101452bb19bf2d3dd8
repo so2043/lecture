@@ -1,0 +1,6 @@
+package _20_oop11;
+
+public class HarmanSpeaker implements Speaker {
+
+	
+}

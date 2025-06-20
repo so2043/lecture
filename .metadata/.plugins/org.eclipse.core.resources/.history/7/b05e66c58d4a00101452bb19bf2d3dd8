@@ -1,0 +1,22 @@
+package _20_oop11;
+
+import java.util.Properties;
+
+public class TVUser {
+	public static void main(String[] args) throws Exception {
+		
+		Properties prop = new Properties();
+		prop.load(new FileInputStream("src/_20_oop11/product.properties"));
+		
+		TV tv = new SamsungTV(); // 업캐스팅하는게 좋음
+		
+		tv.powerOn();
+		tv.channelUp();
+		tv.channelUp();
+		tv.soundDown();
+		tv.powerOff();
+		
+		
+		
+	}
+}

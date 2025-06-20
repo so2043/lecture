@@ -1,0 +1,15 @@
+package _21_oop11_2;
+
+public class HarmanSpeaker implements Speaker {
+
+	@Override
+	public void soundUp() {
+		
+	}
+
+	@Override
+	public void soundDown() {
+		
+	}
+
+}

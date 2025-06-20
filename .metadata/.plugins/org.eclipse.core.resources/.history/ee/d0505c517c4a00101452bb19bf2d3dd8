@@ -1,0 +1,18 @@
+package 연습문제._08장.pack02;
+
+//import 연습문제._08장.pack01.A;
+
+protected class A {
+	public int m = 3;
+	public int n = 5;
+}
+
+public class B {
+	
+	void bcd() {
+		A a = new A();
+		System.out.println(a.m);
+		System.out.println(a.n);
+	}
+
+}

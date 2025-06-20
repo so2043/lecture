@@ -1,0 +1,10 @@
+package _18_.sec01_finalmodifier;
+
+public class Shape {
+	
+	double res;
+	
+	public void area() {
+		
+	}
+}

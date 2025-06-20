@@ -1,0 +1,48 @@
+package boj;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+// map 없이
+
+
+class Node {
+	
+	int val;
+	Node left;
+	Node right;
+	
+	Node(char val){
+		this.val = val;
+	}
+	
+}
+
+public class _1991 {
+	
+	static int n;
+	static Node root;
+	
+	public static void main(String[] args) throws Exception {
+		
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		n = Integer.parseInt(br.readLine());
+		
+		for (int i=0; i<n; i++) {
+			String[] str = br.readLine().split(" ");
+			
+			char par = str[0].charAt(0);
+			char left = str[1].charAt(0);
+			char right = str[2].charAt(0);
+			
+			
+			insert (node, par);
+		}
+		
+		
+	}
+	
+	static void insert(Node node, char val) {
+		
+	}
+}

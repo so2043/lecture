@@ -1,0 +1,18 @@
+package 연습문제._09장._06번;
+
+class A {
+
+	static int a;
+	
+	a=8;
+	
+}
+
+
+
+public class Unit09_06번 {
+	public static void main(String[] args) {
+		
+		System.out.println(A.a); 	// 8
+	}
+}

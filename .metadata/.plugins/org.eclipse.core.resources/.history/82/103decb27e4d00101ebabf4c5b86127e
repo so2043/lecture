@@ -1,0 +1,5 @@
+package _26_generic.sec02_genericclass.EX01_SingleGenericArgument;
+
+public class SingleGenericArgument {
+
+}

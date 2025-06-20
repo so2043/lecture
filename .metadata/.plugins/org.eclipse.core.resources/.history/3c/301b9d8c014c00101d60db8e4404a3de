@@ -1,0 +1,29 @@
+package _23_innerclass.sec02_staticinnerclass.EX01_CreateObjectAndAccessMember;
+
+
+class A {
+	int a = 3;
+	static int b = 4;
+	void method1() {
+		System.out.println("instance method");
+	}
+	static void method2() {
+		System.out.println("static method");
+	}
+	
+	// 정적 이너 클래스
+	class B {
+		void bcd() {
+			System.out.println(a);
+			System.out.println(b);
+			a = 5;
+			b = 7;
+		}
+	}
+	
+}
+
+
+public class CreateObjectAndAccessMember {
+
+}

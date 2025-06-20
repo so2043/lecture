@@ -1,0 +1,10 @@
+package _25_thread.sec03_threadproperties.EX03_ThreadProperties_3_1;
+
+public class ThreadProperties_3_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

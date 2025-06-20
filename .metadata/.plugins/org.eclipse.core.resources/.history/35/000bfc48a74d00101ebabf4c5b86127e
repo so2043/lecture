@@ -1,0 +1,10 @@
+package _27_collection.sec01_list.EX01_ArrayVSList;
+
+public class ArrayVSList {
+	public static void main(String[] args) {
+	
+		
+		// 배열
+		Stringp[] array = new String[] {"가", "나", "다", "라", "마", "바", "사"};
+	}
+}

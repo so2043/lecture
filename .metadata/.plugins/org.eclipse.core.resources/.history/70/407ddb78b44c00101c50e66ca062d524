@@ -1,0 +1,10 @@
+package _25_thread.sec02_createandstartthreadEX02_CreateAndSartThread_M1C2;
+
+public class CreateAndSartThread_M1C2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

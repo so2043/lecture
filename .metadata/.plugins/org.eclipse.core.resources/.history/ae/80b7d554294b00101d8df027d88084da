@@ -1,0 +1,18 @@
+package _22_exception.sec01_typeofexception.EX01_CheckedException;
+
+
+//class A implements Cloneable {
+//	protected Object clone() throws CloneNotSupportedException {
+//		return super.clone();
+//	}
+//}
+
+
+public class CheckedException {
+	
+	public static void main(String[] args) {
+		// 1. InterruptedException
+		Thread.Sleep(1000);
+
+	}
+}

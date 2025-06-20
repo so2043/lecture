@@ -1,0 +1,18 @@
+package _27_collection.sec01_list.EX03_ArrayListMethod;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListMethod {
+
+	public static void main(String[] args) {
+
+		List<Integer> aList1 = new ArrayList<Integer>();
+		
+		// 1. add
+		aList.add(3);
+		aList.add(4);
+		
+	}
+
+}

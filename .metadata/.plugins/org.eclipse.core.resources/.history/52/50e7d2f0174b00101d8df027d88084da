@@ -1,0 +1,17 @@
+package _21_oop11_2;
+
+public interface TV {
+	
+	void powerOn();
+	
+	void powerOff();
+	
+	public void soundUp();
+	
+	public void soundDown();
+	
+	public void channelUp();
+	
+	public void channelDown();
+
+}

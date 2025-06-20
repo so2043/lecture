@@ -1,0 +1,17 @@
+package control;
+
+import java.util.Scanner;
+
+public class SwitchTest2 {
+	public static void main(String[] args) {
+		
+		
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+		
+		System.out.println("종료");
+
+	}
+}

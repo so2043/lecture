@@ -1,0 +1,44 @@
+package _26_generic.sec01_theneedforgeneric.EX01_ProblemsBeforeGeneric;
+
+
+
+class Apple{}
+
+class Goods1 {
+	private Apple apple;
+	
+	public Apple getApple() {
+		return apple;
+		
+	}
+	
+	public void setApple(Apple apple) {
+		this.apple = apple;
+		
+	}
+}
+
+class Pencil {}
+class Goods2 {
+	private Pencil pencil;
+	
+	public Pencil getPencil() {
+		return pencil;
+		
+	}
+	
+	public void setPencil(Pencil pencil) {
+		this.pencil = pencil;
+		
+	}
+}
+
+
+
+
+
+public class ProblemsBeforeGeneric {
+	public static void main(String[] args) {
+		
+	}
+}

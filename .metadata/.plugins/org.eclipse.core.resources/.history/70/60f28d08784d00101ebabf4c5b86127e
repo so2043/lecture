@@ -1,0 +1,10 @@
+package _25_thread.sec05_threadstates.EX07_Waiting_WaitNotify_2;
+
+public class Waiting_WaitNotify_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

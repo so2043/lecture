@@ -1,0 +1,17 @@
+package _25_thread.sec02_createandstartthreadEX05_CreateAndSartThread_M2C3;
+
+import _25_thread.sec02_createandstartthreadEX02_CreateAndSartThread_M1C2.SMIFileThread;
+import _25_thread.sec02_createandstartthreadEX02_CreateAndSartThread_M1C2.VideoFileThread;
+
+public class _CreateAndSartThread_M2C3 {
+	public static void main(String[] args) {
+
+		
+		Thread smiFileThread = new SMIFileThread();
+		smiFileThread.start();
+		
+		Thread videoFileThread = new VideoFileThread();
+		videoFileThread.start();
+		
+	}
+}

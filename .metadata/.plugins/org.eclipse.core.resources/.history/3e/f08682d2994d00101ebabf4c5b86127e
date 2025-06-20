@@ -1,0 +1,10 @@
+package _26_generic.sec04_boundedtype.EX03_BoundedTypeOfGenericInputArguments;
+
+public class BoundedTypeOfGenericInputArguments {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

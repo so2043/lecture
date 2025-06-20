@@ -1,0 +1,10 @@
+package _27_collection.sec01_list.EX02_CreateListObject;
+
+public class CreateListObject {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
