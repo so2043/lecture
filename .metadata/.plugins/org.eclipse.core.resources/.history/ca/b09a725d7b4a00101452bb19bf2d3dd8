@@ -1,7 +1,0 @@
-package 연습문제._08장;
-
-public class Unit08_2번 {
-
-	public int m = 3;
-	public int n = 5;
-}

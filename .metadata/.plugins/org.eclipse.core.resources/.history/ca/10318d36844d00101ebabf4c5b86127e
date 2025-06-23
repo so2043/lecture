@@ -1,7 +1,0 @@
-package _26_generic.sec03_genericmethod.EX01_GenericMethod;
-
-public class GenericMethod {
-	public static void main(String[] args) {
-		
-	}
-}

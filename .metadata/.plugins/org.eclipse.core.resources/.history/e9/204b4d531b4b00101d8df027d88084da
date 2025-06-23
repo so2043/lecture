@@ -1,6 +1,0 @@
-package _21_oop11_2;
-
-public class ProductReader {
-	private Properties props = new Properties();
-	
-}

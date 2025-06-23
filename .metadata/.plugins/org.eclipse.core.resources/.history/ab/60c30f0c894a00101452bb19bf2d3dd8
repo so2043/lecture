@@ -1,7 +1,0 @@
-package _20_oop11;
-
-public class HarmanSpeaker implements Speaker {
-
-	public void soundUp();
-	public void soundDown();
-}

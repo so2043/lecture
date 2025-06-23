@@ -1,8 +1,0 @@
-package _11_importTest;
-
-public class Snippet {
-	public static void main(String[] args) {
-		NullPointerException
-	}
-}
-
